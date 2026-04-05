@@ -46,7 +46,7 @@ The interactive dashboard includes:
 - Dynamic filters and slicers  
 - KPI cards for key metrics  
 - Trend analysis visualizations  
-- Comparative analysis (e.g., ratings vs reviews, discounts vs engagement)  
+- Comparative analysis  
 - Drill-down capabilities for deeper insights  
 
 ---
